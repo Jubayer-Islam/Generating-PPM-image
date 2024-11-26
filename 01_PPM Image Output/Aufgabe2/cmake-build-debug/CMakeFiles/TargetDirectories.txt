@@ -1,0 +1,3 @@
+H:/OOP exercises & Projects/Praktikum/01_PPM Image Output/Aufgabe2/cmake-build-debug/CMakeFiles/01_PPM_Image_Output.dir
+H:/OOP exercises & Projects/Praktikum/01_PPM Image Output/Aufgabe2/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/OOP exercises & Projects/Praktikum/01_PPM Image Output/Aufgabe2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
